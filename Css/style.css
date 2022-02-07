@@ -1,0 +1,23 @@
+body{
+
+  background-color: #d0e8f2;
+
+}
+h1{
+
+
+  color: blue;
+}
+a{
+
+
+  text-decoration: none;
+}
+hr{
+
+background-color: red;
+border-top-style:dotted;
+width: 30%;
+
+
+}
